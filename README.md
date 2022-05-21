@@ -4,9 +4,9 @@
 
 # Embedded Controller HAL
 
-Written by:   송영원
+Written by:   Song Yeong Won
 
-Course:  임베디드컨트롤러
+Course:  Embedded Controller
 
 
 
