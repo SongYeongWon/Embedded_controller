@@ -1,0 +1,174 @@
+Dependencies for Project 'RC_CAR_Bluetooth', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6160000::V6.16::ARMCLANG
+F (.\RC_LAB_CAR.c)(0x61BC4266)(-xc -std=gnu11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../../lib-I./RTE/_Target_1-IC:/Users/LEGION/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/LEGION/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F411xE -D_RTE_-o ./objects/rc_lab_car.o -MD)
+I (..\..\lib\ecHAL.h)(0x61ACF116)
+I (..\..\lib\ecGPIO.h)(0x6172A089)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D3DAD2)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6AC3C6)
+I (..\..\lib\ecRCC.h)(0x615E9B6E)
+I (..\..\lib\ecEXTI.h)(0x61AD0671)
+I (..\..\lib\ecTIM.h)(0x61AF66B6)
+I (..\..\lib\ecADC.h)(0x61BB6626)
+I (..\..\lib\ecStepper.h)(0x6196106A)
+I (..\..\lib\ecSysTick.h)(0x6184E0F1)
+I (..\..\lib\ecPWM.h)(0x6184D6A9)
+I (..\..\lib\ecUART.h)(0x61A63317)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6034F9C4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6034F9C0)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x6034F9C0)
+I (C:\Keil_v5\ARM\ARMCLANG\include\math.h)(0x6034F9BA)
+F (..\..\lib\EC_API.cpp)(0x61728E2F)(-xc++ -std=gnu++14 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar -fno-exceptions-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../../lib-I./RTE/_Target_1-IC:/Users/LEGION/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/LEGION/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F411xE -D_RTE_-o ./objects/ec_api.o -MD)
+I (..\..\lib\EC_API.h)(0x617278AA)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D3DAD2)
+I (C:\Keil_v5\ARM\ARMCLANG\include\libcxx\stdint.h)(0x602A2D6A)
+I (C:\Keil_v5\ARM\ARMCLANG\include\libcxx\__config)(0x6034F9A6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6AC3C6)
+I (..\..\lib\ecGPIO.h)(0x6172A089)
+I (..\..\lib\ecRCC.h)(0x615E9B6E)
+I (..\..\lib\ecSysTick.h)(0x6184E0F1)
+I (..\..\lib\ecEXTI.h)(0x61AD0671)
+F (..\..\lib\EC_API.h)(0x617278AA)()
+F (..\..\lib\ecEXTI.c)(0x61AD069B)(-xc -std=gnu11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../../lib-I./RTE/_Target_1-IC:/Users/LEGION/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/LEGION/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F411xE -D_RTE_-o ./objects/ecexti.o -MD)
+I (..\..\lib\ecEXTI.h)(0x61AD0671)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D3DAD2)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6AC3C6)
+F (..\..\lib\ecEXTI.h)(0x61AD0671)()
+F (..\..\lib\ecGPIO.c)(0x61AF3A33)(-xc -std=gnu11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../../lib-I./RTE/_Target_1-IC:/Users/LEGION/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/LEGION/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F411xE -D_RTE_-o ./objects/ecgpio.o -MD)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D3DAD2)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6AC3C6)
+I (..\..\lib\ecGPIO.h)(0x6172A089)
+I (..\..\lib\ecRCC.h)(0x615E9B6E)
+F (..\..\lib\ecGPIO.h)(0x6172A089)()
+F (..\..\lib\ecPWM.c)(0x61BB7CD6)(-xc -std=gnu11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../../lib-I./RTE/_Target_1-IC:/Users/LEGION/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/LEGION/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F411xE -D_RTE_-o ./objects/ecpwm.o -MD)
+I (..\..\lib\ecPWM.h)(0x6184D6A9)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D3DAD2)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6AC3C6)
+I (..\..\lib\ecGPIO.h)(0x6172A089)
+I (..\..\lib\ecRCC.h)(0x615E9B6E)
+I (..\..\lib\ecTIM.h)(0x61AF66B6)
+F (..\..\lib\ecPWM.h)(0x6184D6A9)()
+F (..\..\lib\ecRCC.c)(0x61782260)(-xc -std=gnu11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../../lib-I./RTE/_Target_1-IC:/Users/LEGION/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/LEGION/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F411xE -D_RTE_-o ./objects/ecrcc.o -MD)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D3DAD2)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6AC3C6)
+I (..\..\lib\ecRCC.h)(0x615E9B6E)
+F (..\..\lib\ecRCC.h)(0x615E9B6E)()
+F (..\..\lib\ecSysTick.c)(0x61B4CF90)(-xc -std=gnu11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../../lib-I./RTE/_Target_1-IC:/Users/LEGION/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/LEGION/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F411xE -D_RTE_-o ./objects/ecsystick.o -MD)
+I (..\..\lib\ecSysTick.h)(0x6184E0F1)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D3DAD2)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6AC3C6)
+F (..\..\lib\ecSysTick.h)(0x6184E0F1)()
+F (..\..\lib\ecTIM.c)(0x61B36BB4)(-xc -std=gnu11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../../lib-I./RTE/_Target_1-IC:/Users/LEGION/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/LEGION/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F411xE -D_RTE_-o ./objects/ectim.o -MD)
+I (..\..\lib\ecTIM.h)(0x61AF66B6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D3DAD2)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6AC3C6)
+I (..\..\lib\ecGPIO.h)(0x6172A089)
+I (..\..\lib\ecRCC.h)(0x615E9B6E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\math.h)(0x6034F9BA)
+F (..\..\lib\ecTIM.h)(0x61AF66B6)()
+F (..\..\lib\ecUART.c)(0x61BC1C0C)(-xc -std=gnu11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../../lib-I./RTE/_Target_1-IC:/Users/LEGION/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/LEGION/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F411xE -D_RTE_-o ./objects/ecuart.o -MD)
+I (..\..\lib\ecUART.h)(0x61A63317)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D3DAD2)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6AC3C6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6034F9C4)
+I (..\..\lib\ecGPIO.h)(0x6172A089)
+I (..\..\lib\ecRCC.h)(0x615E9B6E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\math.h)(0x6034F9BA)
+F (..\..\lib\ecUART.h)(0x61A63317)()
+F (..\..\lib\ecADC.c)(0x61BC3FB0)(-xc -std=gnu11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../../lib-I./RTE/_Target_1-IC:/Users/LEGION/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/LEGION/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F411xE -D_RTE_-o ./objects/ecadc.o -MD)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D3DAD2)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6AC3C6)
+I (..\..\lib\ecSysTick.h)(0x6184E0F1)
+I (..\..\lib\ecADC.h)(0x61BB6626)
+I (..\..\lib\ecGPIO.h)(0x6172A089)
+I (..\..\lib\ecRCC.h)(0x615E9B6E)
+I (..\..\lib\ecTIM.h)(0x61AF66B6)
+F (..\..\lib\ecADC.h)(0x61BB6626)()
+F (..\..\lib\ecStepper.c)(0x61AA1A07)(-xc -std=gnu11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../../lib-I./RTE/_Target_1-IC:/Users/LEGION/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/LEGION/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F411xE -D_RTE_-o ./objects/ecstepper.o -MD)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D3DAD2)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6AC3C6)
+I (..\..\lib\ecStepper.h)(0x6196106A)
+I (..\..\lib\ecGPIO.h)(0x6172A089)
+I (..\..\lib\ecRCC.h)(0x615E9B6E)
+I (..\..\lib\ecSysTick.h)(0x6184E0F1)
+F (..\..\lib\ecStepper.h)(0x6196106A)()
+F (..\..\lib\ecHAL.h)(0x61ACF116)()
+F (RTE\Device\STM32F411RETx\startup_stm32f411xe.s)(0x5F6AC3C6)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/_Target_1-IC:/Users/LEGION/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/LEGION/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 536" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"STM32F411xE SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32f411xe.o)
+F (RTE\Device\STM32F411RETx\system_stm32f4xx.c)(0x5F6AC3C6)(-xc -std=gnu11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../../lib-I./RTE/_Target_1-IC:/Users/LEGION/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/LEGION/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.15.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F411xE -D_RTE_-o ./objects/system_stm32f4xx.o -MD)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x5F6AC3C6)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D3DAD2)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D3DAD2)
+I (C:\Users\LEGION\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5F6AC3C6)
